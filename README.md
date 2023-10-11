@@ -1,2 +1,2 @@
 # AdventureGame
-text based adventure game with java!
+A text based adventure game!
